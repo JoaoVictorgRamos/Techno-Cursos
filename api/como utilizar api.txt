@@ -1,0 +1,5 @@
+1 - selecione a pasta "api"
+ = cd api
+
+2 - execute o comando
+ = json-server --watch api.json
